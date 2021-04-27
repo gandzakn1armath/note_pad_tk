@@ -1,3 +1,12 @@
+#1.Download python 3.6.0 (https://www.python.org/ftp/python/3.6.0/python-3.6.0-amd64.exe)
+#2.Open terminal, write the following commands(pip install python-firebase, pip install phonenumbers)
+#3.Run programm
+#/////////////////////////////////////////////////////////
+#git - https://github.com/gandzakn1armath/note_pad_tk.git
+#/////////////////////////////////////////////////////////
+#youtube - https://youtu.be/TGK9M2WKrdU
+#/////////////////////////////////////////////////////////
+
 import threading
 import datetime
 import phonenumbers
